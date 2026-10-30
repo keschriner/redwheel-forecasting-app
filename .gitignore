@@ -5,6 +5,12 @@ __pycache__/
 venv/
 .env
 
+# Data files
+data/*.csv
+data/raw/*.csv
+data/processed/*.csv
+outputs/*.csv
+
 # Streamlit
 .streamlit/
 
